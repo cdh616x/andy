@@ -1,23 +1,39 @@
+body {
+  background-color: #EEEBDD;
+}
+
 .navbar {
+  font-family: "Ubuntu", sans-serif;
   position: fixed;
   z-index: 1;
   width: 100%;
 
 }
 
+.card-img-top {
+  height: auto;
+}
+
 .card {
+  background-color: #FEF5ED;
   padding: 1%;
   width: 33%;
+  height: auto;
+}
+
+h5 {
+  font-family: "Ubuntu", sans-serif;
 }
 
 .carousel-inner {
   background-color: #EEEBDD;
   padding: 3%;
   text-align: center;
+  height: auto;
 }
 
 .carousel-item {
-  height: 650px;;
+  height: auto;
 }
 
 a {
