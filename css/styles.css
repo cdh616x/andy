@@ -1,0 +1,10 @@
+.card {
+  padding: 1%;
+  width: 33%;
+}
+
+.carousel-inner {
+  background-color: #EEEBDD;
+  padding: 3%;
+  text-align: center;
+}
