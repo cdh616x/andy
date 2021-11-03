@@ -71,6 +71,14 @@ a {
   text-align: center;
 }
 
+i.fab {
+  color: #99A07D;
+}
+
+i.fab:hover {
+  color: gray;
+}
+
 #portrait {
   text-align: center;
 }
