@@ -13,6 +13,13 @@
   height: 250px;
 }
 
+.contact {
+  font-size: 3em;
+  margin-bottom: 10%;
+  margin-top: 10%;
+  text-align: center;
+}
+
 #portrait {
   text-align: center;
 }
