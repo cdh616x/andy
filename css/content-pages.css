@@ -14,10 +14,23 @@
 }
 
 .contact {
-  font-size: 3em;
-  margin-bottom: 10%;
-  margin-top: 10%;
+  color: #99A07D;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 2em;
+  margin-bottom: 1%;
+  margin-top: 1%;
   text-align: center;
+}
+
+.contact:hover {
+  color: gray;
+}
+
+.contact-info {
+  font-family: "Ubuntu", sans-serif;
+  padding-top: 5%;
+  padding-left: 10%;
+  padding-right: 10%;
 }
 
 #portrait {
@@ -41,4 +54,12 @@ h2 {
 
 .resize-small {
   height: 500px;
+}
+
+i.fab {
+  color: #99A07D;
+}
+
+i.fab:hover {
+  color: gray;
 }
