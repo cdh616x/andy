@@ -21,6 +21,10 @@ a {
   text-decoration: none;
 }
 
+body {
+  background-color: #EEEBDD;
+}
+
 h2 {
   color: #99A07D;
   margin-top: 5%;
