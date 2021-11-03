@@ -17,6 +17,10 @@
   text-align: center;
 }
 
+a {
+  text-decoration: none;
+}
+
 h2 {
   color: #99A07D;
   margin-top: 5%;
