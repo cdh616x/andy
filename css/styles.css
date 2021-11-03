@@ -70,3 +70,12 @@ a {
 #socials {
   text-align: center;
 }
+
+#portrait {
+  text-align: center;
+}
+
+.content-alone {
+  height: auto;
+  text-align: center;
+}

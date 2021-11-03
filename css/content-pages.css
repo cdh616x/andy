@@ -1,0 +1,25 @@
+.navbar {
+  font-family: "Ubuntu", sans-serif;
+  position: fixed;
+  z-index: 1;
+  padding: 0;
+  width: 100%;
+}
+
+#socials {
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+  height: 250px;
+}
+
+#portrait {
+  text-align: center;
+}
+
+h2 {
+  color: white;
+  margin-bottom: 10%;
+}
