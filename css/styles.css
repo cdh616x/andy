@@ -36,6 +36,19 @@ h5 {
   height: auto;
 }
 
+.pad {
+  padding-top: 15%;
+}
+
+.padd {
+  padding-top: 20%;
+}
+
+.noble {
+  position: relative;
+  right: 10%;
+}
+
 a {
   text-decoration: none;
 }
@@ -43,6 +56,15 @@ a {
 .center {
   text-align: center;
   height: 250px;
+}
+
+#about {
+  color: #EEEBDD;
+  background-color: #99A07D;
+  border-radius: 50px;
+  font-family: "Ubuntu", sans-serif;
+  padding: 10%;
+  text-align: justify;
 }
 
 #socials {
