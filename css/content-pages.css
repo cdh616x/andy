@@ -1,7 +1,5 @@
 .navbar {
   font-family: "Ubuntu", sans-serif;
-  position: fixed;
-  z-index: 1;
   padding: 0;
   width: 100%;
 }
@@ -20,6 +18,7 @@
 }
 
 h2 {
-  color: white;
-  margin-bottom: 10%;
+  color: #99A07D;
+  margin-top: 5%;
+  margin-bottom: 5%;
 }
