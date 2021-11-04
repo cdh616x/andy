@@ -7,11 +7,41 @@
 }
 
 h1 {
+  font-family: "Kudajets", sans-serif;
   text-align: center;
-  padding-top: 5%;
+  padding-top: 10%;
   padding-bottom: 5%;
 }
 
+.row {
+  margin: 1%;
+}
+
 .column {
-  width: 33.33%;
+  width: 33%;
+}
+
+body {
+  background-color: #EEEBBD;
+}
+
+h5 {
+  font-family: "Kudajets", sans-serif;
+  text-align: center;
+}
+
+a {
+  color: gray;
+  text-decoration: none;
+}
+
+#socials {
+  font-family: "Kudajets", sans-serif;
+  text-align: center;
+}
+
+.center {
+  font-family: "Kudajets", sans-serif;
+  text-align: center;
+  height: 250px;
 }

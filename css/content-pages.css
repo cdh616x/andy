@@ -52,7 +52,6 @@ body {
 h2 {
   color: #99A07D;
   font-family: "Kudajets", sans-serif;
-  margin-top: 5%;
   margin-bottom: 5%;
 }
 
@@ -70,4 +69,26 @@ i.fab {
 
 i.fab:hover {
   color: gray;
+}
+
+.description {
+  font-family: "Kudajets"; sans serif;
+}
+
+.btn {
+  background-color: #99A07D;
+  border: 0;
+  margin-top: 5%;
+}
+
+.btn:hover {
+  background-color: gray;
+}
+
+.title-of-work {
+  margin-top: 5%;
+}
+
+.img-fluid {
+  margin-bottom: 2%;
 }
