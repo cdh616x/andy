@@ -3,7 +3,7 @@ body {
 }
 
 .navbar {
-  font-family: "Ubuntu", sans-serif;
+  font-family: "Kudajets", sans-serif;
   position: fixed;
   z-index: 1;
   padding: 0;
@@ -17,12 +17,12 @@ body {
 
 .card {
   background-color: #FEF5ED;
-  padding: 1%;
+  padding: 5%;
   width: 33%;
 }
 
 h5 {
-  font-family: "Ubuntu", sans-serif;
+  font-family: "Kudajets", sans-serif;
 }
 
 .carousel-inner {
@@ -48,6 +48,10 @@ a {
   text-decoration: none;
 }
 
+p {
+  font-family: "Kudajets", sans-serif;
+}
+
 .center {
   text-align: center;
   height: 250px;
@@ -56,8 +60,7 @@ a {
 #about {
   color: #EEEBDD;
   background-color: #99A07D;
-  border-radius: 50px;
-  font-family: "Ubuntu", sans-serif;
+  font-family: "Kudajets", sans-serif;
   padding: 10%;
   text-align: justify;
   margin-left: 10%;

@@ -1,5 +1,5 @@
 .navbar {
-  font-family: "Ubuntu", sans-serif;
+  font-family: "Kudajets", sans-serif;
   padding: 0;
   width: 100%;
 }
@@ -15,7 +15,7 @@
 
 .contact {
   color: #99A07D;
-  font-family: "Ubuntu", sans-serif;
+  font-family: "Kudajets", sans-serif;
   font-size: 2em;
   margin-bottom: 1%;
   margin-top: 1%;
@@ -27,7 +27,7 @@
 }
 
 .contact-info {
-  font-family: "Ubuntu", sans-serif;
+  font-family: "Kudajets", sans-serif;
   padding-top: 5%;
   padding-left: 10%;
   padding-right: 10%;
@@ -41,19 +41,27 @@ a {
   text-decoration: none;
 }
 
+p {
+  font-family: "Kudajets", sans-serif;
+}
+
 body {
   background-color: #EEEBDD;
 }
 
 h2 {
   color: #99A07D;
-  font-family: "Ubuntu", sans-serif;
+  font-family: "Kudajets", sans-serif;
   margin-top: 5%;
   margin-bottom: 5%;
 }
 
 .resize-small {
   height: 500px;
+}
+
+.container-fluid {
+  font-family: "Kudajets", sans-serif;
 }
 
 i.fab {
