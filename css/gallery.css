@@ -35,6 +35,10 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+  color: #99A07D;
+  }
+
 #socials {
   font-family: "Kudajets", sans-serif;
   text-align: center;
