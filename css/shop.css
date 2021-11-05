@@ -1,0 +1,64 @@
+.navbar {
+  font-family: "Kudajets", sans-serif;
+  padding: 0;
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+}
+
+h1 {
+  font-family: "Kudajets", sans-serif;
+  text-align: center;
+  padding-top: 10%;
+}
+
+.row {
+  margin-bottom: 5%;
+}
+
+.col {
+  width: 33%;
+}
+
+body {
+  background-color: #EEEBBD;
+}
+
+h5 {
+  font-family: "Kudajets", sans-serif;
+  text-align: center;
+}
+
+a {
+  color: gray;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #99A07D;
+  }
+
+#socials {
+  font-family: "Kudajets", sans-serif;
+  text-align: center;
+}
+
+.center {
+  font-family: "Kudajets", sans-serif;
+  text-align: center;
+  height: 250px;
+}
+
+p {
+  font-family: "Kudajets", sans-serif;
+  text-align: center;
+}
+
+.shop-info {
+  margin-bottom: 5%;
+}
+
+.img-thumbnail {
+  height: 200px;
+  text-align: center;
+}
