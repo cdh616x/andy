@@ -1,0 +1,77 @@
+.navbar {
+  font-family: "Kudajets", sans-serif;
+  padding: 0;
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+}
+
+h1 {
+  font-family: "Kudajets", sans-serif;
+  text-align: center;
+  padding-top: 10%;
+  padding-bottom: 5%;
+}
+
+h2 {
+  font-family: "Kudajets", sans-serif;
+}
+
+.card {
+  background-color: #FEF5ED;
+  padding: 5%;
+  width: 100%;
+}
+
+.col {
+  width: 50%;
+}
+
+.row {
+  margin-bottom: 5%;
+}
+
+body {
+  background-color: #EEEBBD;
+}
+
+h5 {
+  font-family: "Kudajets", sans-serif;
+  text-align: center;
+}
+
+a {
+  color: gray;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #99A07D;
+  }
+
+#socials {
+  font-family: "Kudajets", sans-serif;
+  text-align: center;
+}
+
+.center {
+  font-family: "Kudajets", sans-serif;
+  text-align: center;
+  height: 250px;
+}
+
+
+.container-fluid {
+  text-align: center;
+}
+
+.carousel-inner {
+  background-color: #EEEBDD;
+  padding: 3%;
+  text-align: center;
+  height: auto;
+}
+
+.carousel-item {
+  height: auto;
+}
