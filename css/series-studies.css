@@ -10,7 +10,6 @@ h1 {
   font-family: "Kudajets", sans-serif;
   text-align: center;
   padding-top: 10%;
-  padding-bottom: 5%;
 }
 
 h2 {
@@ -74,4 +73,13 @@ a:hover {
 
 .carousel-item {
   height: auto;
+}
+
+p {
+  text-align: center;
+  font-family: "Kudajets", sans-serif;
+}
+
+.series-studies {
+  padding-bottom: 5%;
 }
