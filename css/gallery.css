@@ -49,3 +49,16 @@ a:hover {
   text-align: center;
   height: 250px;
 }
+
+.img-thumbnail {
+  height: 300px;
+  text-align: center;
+}
+
+.card-title {
+  color: #99A07D;
+}
+
+.card {
+  background-color: #FEF5ED;
+}
