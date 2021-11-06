@@ -49,6 +49,11 @@ body {
   background-color: #EEEBDD;
 }
 
+h1 {
+  font-family: "Kudajets", sans-serif;
+  margin-top: 5%;
+}
+
 h2 {
   color: #99A07D;
   font-family: "Kudajets", sans-serif;
