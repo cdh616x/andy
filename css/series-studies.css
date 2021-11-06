@@ -83,3 +83,15 @@ p {
 .series-studies {
   padding-bottom: 5%;
 }
+
+.series-button {
+  margin-bottom: 2%;
+}
+
+.series-link:hover {
+  color: white;
+}
+
+.button:hover {
+  color: white;
+}
