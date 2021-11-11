@@ -5,10 +5,12 @@ body {
 .navbar {
   font-family: "Kudajets", sans-serif;
   position: fixed;
-  z-index: 1;
+  z-index: 3;
   padding: 0;
   width: 100%;
+}
 
+#nav {
 }
 
 .card-img-top {
@@ -61,6 +63,7 @@ p {
   color: #EEEBDD;
   background-color: #99A07D;
   font-family: "Kudajets", sans-serif;
+  font-size: 1.5rem;
   padding: 10%;
   text-align: justify;
   margin-left: 10%;
